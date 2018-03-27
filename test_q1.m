@@ -4,4 +4,4 @@
 
 close all; clear;
 
-texture_synthesis('texture11.jpg',300,250,25);
+texture_synthesis('texture9.jpg',300,250,51);
